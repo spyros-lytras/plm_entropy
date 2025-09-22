@@ -13,7 +13,7 @@ setup(
     long_description= readme(),
     long_description_content_type='text/markdown',
     url='https://github.com/spyros-lytras/plm_entropy',
-    download_url = 'https://github.com/spyros-lytras/plm_entropy/dist/plm_entropy-0.1.tar',
+    download_url = 'https://github.com/spyros-lytras/plm_entropy/dist/plm_entropy-0.1.tar.gz',
     classifiers=[
     "Intended Audience :: Science/Research",
     "Topic :: Scientific/Engineering :: Bio-Informatics",
