@@ -35,5 +35,6 @@ setup(
     'transformers==4.41.2',
     'scipy==1.13.1',
     'torch==2.3.1',
-    'typing-extensions==4.12.2'],
+    'typing-extensions==4.12.2',
+    'sentencepiece==0.2.0'],
     python_requires="~=3.12")
