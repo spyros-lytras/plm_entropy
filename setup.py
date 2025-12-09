@@ -8,7 +8,7 @@ def readme():
         
 setup(
     name='plm_entropy',
-    version='0.1',
+    version='0.2',
     description='The pLM entropy Python package',
     long_description= readme(),
     long_description_content_type='text/markdown',
