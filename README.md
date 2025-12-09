@@ -33,7 +33,7 @@ conda env create -f plm_entropy_env.yml
 
 conda activate plm_entropy
 
-pip install update plm_entropy
+pip install plm_entropy
 
 ```
 
