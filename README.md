@@ -25,11 +25,13 @@ To install the conda environment with the python package:
 
 
 ```
-git clone https://github.com/spyros-lytras/plm_entropy.git
+git clone https://github.com/spyros-lytras/plm_entropy.git
 
 cd plm_entropy
 
-conda env create -f pLM_entropy_env.yml
+conda env create -f plm_entropy_env.yml
+
+conda activate plm_entropy
 
 pip install update plm_entropy
 

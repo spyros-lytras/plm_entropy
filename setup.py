@@ -27,5 +27,13 @@ setup(
     author_email='spyros@ims.u-tokyo.ac.jp',
     license='MIT',
     packages=['plm_entropy'],
-    install_requires=['biopython'],
+    install_requires=[
+    'biopython==1.83',
+    'pandas==2.2.2',
+    'numpy==1.26.4',
+    'fair-esm==2.0.0',
+    'transformers==4.41.2',
+    'scipy==1.13.1',
+    'torch==2.3.1',
+    'typing-extensions==4.12.2'],
     python_requires="~=3.12")
