@@ -1,7 +1,7 @@
 # pLM entropy
 
-Code and data for: [Lytras, S., Strange, A., Ito, J., and Sato K. (2025).
-Inferring context-specific site variation with evotuned protein language models. *BioRxiv*](https://www.biorxiv.org/content/10.1101/2025.02.19.639211v2)
+Code and data for: [Lytras, S., Strange, A., Ito, J., and Sato K. (2026).
+Inferring context-specific site variation with evotuned protein language models. *NAR Genomics & Bioinformatics*](https://doi.org/10.1093/nargab/lqag018)
 
 
 **pLM entropy** is protein language model (pLM)-based metric to assess protein site conservation and variability.
